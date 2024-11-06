@@ -1,0 +1,1 @@
+document.getElementById("mensaje").innerHTML = "¡Hola, Aplique mi JS GLOBAL!";

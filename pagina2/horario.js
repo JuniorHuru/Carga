@@ -1,0 +1,1 @@
+document.getElementById("mensaje2").innerHTML = "¡Hola, Aplique mi JS HORARIO!";
